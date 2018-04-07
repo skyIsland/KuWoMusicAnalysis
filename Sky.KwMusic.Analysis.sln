@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sky.Analysis", "Sky.Analysis\Sky.Analysis.csproj", "{718FD865-41A9-4F6E-8F9C-717EBA5A0C10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sky.Test", "Sky.Test\Sky.Test.csproj", "{E6684584-2C50-4009-9535-D0631471162A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{718FD865-41A9-4F6E-8F9C-717EBA5A0C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718FD865-41A9-4F6E-8F9C-717EBA5A0C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718FD865-41A9-4F6E-8F9C-717EBA5A0C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718FD865-41A9-4F6E-8F9C-717EBA5A0C10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6684584-2C50-4009-9535-D0631471162A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6684584-2C50-4009-9535-D0631471162A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6684584-2C50-4009-9535-D0631471162A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6684584-2C50-4009-9535-D0631471162A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B46F0C8E-FCD3-4526-919D-3F34EFD63D93}
+	EndGlobalSection
+EndGlobal
